@@ -10,4 +10,9 @@ K shunt current monitor 40V SOT-23
 F http://www.ti.com/lit/ds/symlink/ina139.pdf
 $ENDCMP
 #
+$CMP LM3490IM5-12/NOPB
+K 100mA SOT-23 12V enable
+F http://www.ti.com/lit/ds/symlink/lm3490.pdf
+$ENDCMP
+#
 #End Doc Library
