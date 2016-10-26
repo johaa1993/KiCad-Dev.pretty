@@ -2,7 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP CONN_XT60
 D Power connector
-K connector, XT60
+K connector, XT60, conn
 $ENDCMP
 #
 #End Doc Library
