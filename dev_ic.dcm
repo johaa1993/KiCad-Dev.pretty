@@ -15,4 +15,8 @@ K 100mA SOT-23 12V enable
 F http://www.ti.com/lit/ds/symlink/lm3490.pdf
 $ENDCMP
 #
+$CMP LM5050
+F http://www.ti.com/lit/ds/symlink/lm5050-1-q1.pdf
+$ENDCMP
+#
 #End Doc Library
