@@ -19,4 +19,8 @@ $CMP LM5050
 F http://www.ti.com/lit/ds/symlink/lm5050-1-q1.pdf
 $ENDCMP
 #
+$CMP MIC5014
+K MOSFET driver
+$ENDCMP
+#
 #End Doc Library
