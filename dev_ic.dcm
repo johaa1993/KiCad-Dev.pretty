@@ -23,4 +23,8 @@ $CMP MIC5014
 K MOSFET driver
 $ENDCMP
 #
+$CMP P82B96
+F http://www.farnell.com/datasheets/1648267.pdf
+$ENDCMP
+#
 #End Doc Library
