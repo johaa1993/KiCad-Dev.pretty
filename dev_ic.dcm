@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVC1G08
+F http://www.nxp.com/documents/data_sheet/74LVC1G08.pdf?
+$ENDCMP
+#
 $CMP INA139
 K shunt current monitor 40V SOT-23
 F http://www.ti.com/lit/ds/symlink/ina139.pdf
@@ -25,6 +29,10 @@ $ENDCMP
 #
 $CMP MIC5015
 K MOSFET driver
+$ENDCMP
+#
+$CMP NSI45020AT1G
+F http://www.onsemi.com/pub_link/Collateral/NSI45020A-D.PDF
 $ENDCMP
 #
 $CMP P82B96
