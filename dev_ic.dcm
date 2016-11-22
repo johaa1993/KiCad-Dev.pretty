@@ -4,6 +4,10 @@ $CMP 74LVC1G08
 F http://www.nxp.com/documents/data_sheet/74LVC1G08.pdf?
 $ENDCMP
 #
+$CMP ADS7828
+K I2C ADC
+$ENDCMP
+#
 $CMP INA139
 K shunt current monitor 40V SOT-23
 F http://www.ti.com/lit/ds/symlink/ina139.pdf
@@ -37,6 +41,14 @@ $ENDCMP
 #
 $CMP P82B96
 F http://www.farnell.com/datasheets/1648267.pdf
+$ENDCMP
+#
+$CMP PCA9698
+K I2C GPIO
+$ENDCMP
+#
+$CMP SC18IS602B
+K I2C SPI interface
 $ENDCMP
 #
 #End Doc Library

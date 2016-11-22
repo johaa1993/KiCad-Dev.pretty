@@ -7,7 +7,7 @@ DEF LTC6802-2 U 0 40 Y Y 1 F N
 F0 "U" 0 1050 60 H V C CNN
 F1 "LTC6802-2" 0 950 60 H V C CNN
 F2 "" -150 0 60 H V C CNN
-F3 "http://cds.linear.com/docs/en/datasheet/68022fa.pdf" -150 0 60 H V C CNN
+F3 "http://cds.linear.com/docs/en/datasheet/68022fa.pdf" 0 1200 60 H I C CNN
 DRAW
 S -500 1100 500 -1600 0 1 0 N
 X V+ 1 -800 1050 300 R 50 50 1 1 O
