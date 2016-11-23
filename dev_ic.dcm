@@ -51,4 +51,8 @@ $CMP SC18IS602B
 K I2C SPI interface
 $ENDCMP
 #
+$CMP SN74LVC4245A
+K Buffer 3.3V 5V
+$ENDCMP
+#
 #End Doc Library
